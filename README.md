@@ -19,6 +19,7 @@ This copies the 2D movements of a user after training on a users movement. Its i
 
 Notes:
 - pink indicates where cutout time occured and emphasizes the differncces between what the robot and user did whereas black indicates where they are in sync
+- the outside border of the robot environment will also change as there is instantiated cutout
 
 ## Installations
 You will need to install the following python packages. 
